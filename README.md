@@ -17,7 +17,7 @@ We will use the [Anaconda Distribution package manager](https://docs.anaconda.co
  * Packages are updated with
   * ```conda update package-name```
 
-To see this in action, we will check if there are any needed updates some of the SciPy packages. Type into the command line ```conda update scipy numpy pandas``` If any of the packages need to be updated, enter 'y'.
+To see this in action, we will check if there are any needed updates to some of the SciPy packages. Type into the command line ```conda update scipy numpy pandas``` If any of the packages need to be updated, enter 'y'.
 
 Lastly, before we get started with coding, install the jupyter notebook extensions with:
 ```
