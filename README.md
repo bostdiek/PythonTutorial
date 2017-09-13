@@ -1,5 +1,5 @@
 # Python tutorial
-This brief tutorial was made by Bryan Ostdiek at the University of Oregon. It is only a very brief crash course, aimed at helping physicists use python for their analyses. For now, we will cover installation (and how to get other packages), basic Python (doing thing the pythonistic way), numerical python (Numpy), data tables (Pandas), plotting (matplotlib), and machine learning techniques and/or ROOT (pyROOT) if interested.
+This brief tutorial was made by Bryan Ostdiek at the University of Oregon. It is only a very brief crash course, aimed at helping physicists use python for their analyses. For now, we will cover installation (and how to get other packages), basic Python (doing thing the pythonistic way), numerical python (NumPy), data tables (Pandas), plotting (matplotlib), and machine learning techniques and/or ROOT (pyROOT) if interested.
 
 # Installing
 We will use the [Anaconda Distribution package manager](https://docs.anaconda.com/anaconda/) for nearly everything (a few packages are easier to use pip instead).
