@@ -4,7 +4,7 @@ This brief tutorial was made by Bryan Ostdiek at the University of Oregon. It is
 # Installing
 We will use the [Anaconda Distribution package manager](https://docs.anaconda.com/anaconda/) for nearly everything (a few packages are easier to use pip instead).
 
- * Go to the [installation](https://www.anaconda.com/download/) page to download and install. I use Python 2.7, but most packages now work with both.
+ * Go to the [installation](https://www.anaconda.com/download/) page to download and install. I use Python 2.7, but most packages now work with both. If you don't already have python, get version 3, and I will try to learn the updates too.
  * This should already include
   * [SciPy](https://scipy.org)
     * [NumPy](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html): NumPy is the fundamental package for scientific computing with Python.
