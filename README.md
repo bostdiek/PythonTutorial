@@ -43,3 +43,23 @@ We can use $\LaTeX$ to make our code look very nice.
 Here is an example equation: $(i \gamma^{\mu} \partial_{\mu} -m) \psi = 0$
 ```
 Hit 'shift+return' to run the cell.
+
+ * The default new cell should always be a coding cell. If for some reason you don't have code cell, you can change it with the "Cell > Cell Type" menu. We will go over more of the basic python syntax in person. For now, in the cell, type in  ```AUTHOR = 'put your name'``` and run the cell.
+
+  * In the next cell, we will print the name stored in AUTHOR. This is different for Python 2 and Python 3.
+    * Python 2
+
+    ``` print 'Hello,', AUTHOR ```
+
+    * Python 3
+
+    ```print('Hello,', AUTHOR)```
+
+    * In python 2, print is a statement, not a function. In python 3, it must have the parenthesis, where it is optional for 2.
+
+# Links for more information
+ * [Pythonistic coding](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html) This is more than just a style guide, and has examples on how to do loops and other things in the most pythonic way. Doing things the right way can save a lot of time.
+
+ * [Hacker Rank](https://www.hackerrank.com) has free coding lessons (well homework type problems and tutorials).
+
+ * [Python.org](https://www.python.org): official website and documentation. Even just the opening sequence shows some syntax and the power of python.
