@@ -7,6 +7,7 @@ In addition to general syntax, we will also look at:
   * Classes
   * Importing
   * File I/O
+  
 Here is another [good tutorial](https://www.stavros.io/tutorials/python/) covering python basics
 
 ## Lesson 2: NumPy/pandas
