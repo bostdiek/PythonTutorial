@@ -7,7 +7,7 @@ We will use the [Anaconda Distribution package manager](https://docs.anaconda.co
  * Go to the [installation](https://www.anaconda.com/download/) page to download and install. I use Python 2.7, but most packages now work with both. If you don't already have python, get version 3, and I will try to learn the updates too.
 *_Note: August 27, 2018: Madgraph does not work with Python 3, nor does pyROOT. So this may be reason to stick with 2.7 for now_*
  * This should already include
-  * [SciPy](https://scipy.org)
+    * [SciPy](https://scipy.org)
     * [NumPy](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html): NumPy is the fundamental package for scientific computing with Python.
     * [Matplotlib](https://matplotlib.org/users/pyplot_tutorial.html): Everything for plotting
     * [Sympy](http://www.sympy.org/en/index.html): Symbolic mathematics. I haven't used this yet, but it could be really cool!
