@@ -18,7 +18,8 @@ calculate the invariant mass of given four vectors and plot the distributions.
 
 ## Just python
   * This need an installation of ROOT which knows about Python
-  
+
 It is not necessary to use jupyter notebooks, even though they are useful. For
 instance, when running on a cluster, it may not be feasible. You can still accomplish
-the same things.
+the same things. Running `python PyRootExample.py` in your terminal will use PyROOT
+to analyze an LHEF based ROOT file.
