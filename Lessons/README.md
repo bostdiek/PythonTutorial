@@ -17,7 +17,7 @@ calculate the invariant mass of given four vectors and plot the distributions.
   is more than one way to get the desired solutions.
 
 ## Just python
-  * This need an installation of ROOT which knows about Python
+  * This needs an installation of ROOT which knows about Python
 
 It is not necessary to use jupyter notebooks, even though they are useful. For
 instance, when running on a cluster, it may not be feasible. You can still accomplish
